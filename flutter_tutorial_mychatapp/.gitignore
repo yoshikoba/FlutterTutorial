@@ -8,6 +8,7 @@
 .buildlog/
 .history
 .svn/
+define.js
 
 # IntelliJ related
 *.iml
